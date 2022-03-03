@@ -1,21 +1,19 @@
 
 
 
-body{
-    overflow: hidden;
-}
 
 .btn {
     border: none;
     padding: 35px 50px;
-    margin: -15px;
+    margin:-25px;
+    margin-right: 2px;
     text-align: center;
     text-decoration: none;
     display: block;
     font-size: 0;
     position: relative;
     left: 10px;
-    top: 500px;
+    top: 300px;
     
     
     
@@ -55,7 +53,7 @@ body{
     color: white;
     position: relative;
     left: 22px;
-    top: 465px;
+    top: 275px;
     font-size: 30px;
     
     
@@ -66,7 +64,7 @@ body{
     color: white;
     position: relative;
     left: 25px;
-    top: 465px;
+    top: 275px;
     font-size: 30px;
     
 }
@@ -75,7 +73,7 @@ body{
     color: white;
     position: relative;
     left: 25px;
-    top: 465px;
+    top: 275px;
     font-size: 30px;
     
 
@@ -85,7 +83,7 @@ body{
     color: white;
     position: relative;
     left: 25px;
-    top: 465px;
+    top: 275px;
     font-size: 30px;
     
 
@@ -95,11 +93,9 @@ body{
     color: white;
     position: relative;
     left: 25px;
-    top: 465px;
+    top: 275px;
     font-size: 30px;
    
-    
-
 }
 
 
@@ -109,6 +105,7 @@ body{
     transform: translate(-100px); 
     transition-duration: 1s;
     width: 100%;
+    
 }
 
 
