@@ -23,9 +23,6 @@ body{
   
   .social-media{
     float: right;
-   
-    
-    
 }
 
 .btn {
@@ -106,10 +103,12 @@ body{
 }
 
 
-.btn:hover{
+
+.social-items:hover{
     transition:all 1s  cubic-bezier(.17,.67,.83,.67);
     transform: translate(-100px); 
     transition-duration: 1s;
     width: 100%;
 }
+
 
