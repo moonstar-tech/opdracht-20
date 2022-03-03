@@ -1,0 +1,115 @@
+
+
+
+body{
+    overflow: hidden;
+}
+
+.btn {
+    border: none;
+    padding: 35px 50px;
+    margin: -15px;
+    text-align: center;
+    text-decoration: none;
+    display: block;
+    font-size: 0;
+    position: relative;
+    left: 10px;
+    top: 500px;
+    
+    
+    
+  }
+  
+  .social-media{
+    float: right;
+   
+    
+    
+}
+
+.btn {
+    background-color: #e17b77;
+    
+}
+
+.btn2 {
+    background-color: #00aced;
+}
+
+.btn3 {
+    background-color: #007bb6;
+}
+
+.btn4{
+    background-color: #3b5998;
+}
+
+
+.btn5{
+    background-color: #333;
+}
+
+
+
+
+.fa-laptop-code::before {
+    content: "\f5fc";
+    color: white;
+    position: relative;
+    left: 22px;
+    top: 465px;
+    font-size: 30px;
+    
+    
+    
+}
+.fa-twitter::before {
+    content: "\f099";
+    color: white;
+    position: relative;
+    left: 25px;
+    top: 465px;
+    font-size: 30px;
+    
+}
+.fa-linkedin-in::before {
+    content: "\f0e1";
+    color: white;
+    position: relative;
+    left: 25px;
+    top: 465px;
+    font-size: 30px;
+    
+
+}
+.fa-facebook-f::before {
+    content: "\f39e";
+    color: white;
+    position: relative;
+    left: 25px;
+    top: 465px;
+    font-size: 30px;
+    
+
+}
+.fa-github::before {
+    content: "\f09b";
+    color: white;
+    position: relative;
+    left: 25px;
+    top: 465px;
+    font-size: 30px;
+   
+    
+
+}
+
+
+.btn:hover{
+    transition:all 1s  cubic-bezier(.17,.67,.83,.67);
+    transform: translate(-100px); 
+    transition-duration: 1s;
+    width: 100%;
+}
+
